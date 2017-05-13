@@ -1,0 +1,30 @@
+.container {
+  background-color: #e3e3e3;
+  width: 40%;
+  align: center;
+  font-family: 'Ubuntu', sans-seri
+}
+.title {
+  background-color: #e3e3e3;
+  align: center;
+  font-family: 'Ubuntu', sans-seri
+}
+.divider {
+  width:50%;
+  height:2px;
+  background-color: #a2a2a2;
+}
+.profilepics {
+  margin: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.discord {
+  background-color: #616470;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
